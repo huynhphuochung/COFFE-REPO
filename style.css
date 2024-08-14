@@ -1,8 +1,42 @@
 .navbar{
     background-color: #1b8a52;
     color: aliceblue;
+    border-bottom-left-radius: 5%;
+    border-bottom-right-radius: 5%;
+
 }
 .navbar-brand{
     color:white;
     
+}
+.nav-link:hover {
+    color: darkgray;
+    display: block;
+}
+.nav-link{
+   
+    padding-top: 40px;
+    color:white;
+   font-size: 27px;
+    
+}
+.dropdown:hover>.dropdown-menu
+{
+    display: block;
+}
+.icon{
+    color:aliceblue;
+    
+    margin-right: 20px;
+}
+.icon:hover{
+    color: darkgrey;
+}
+.btn{
+    background-color: white;
+}
+.btn:hover
+{
+    background-color: dimgray;
+    color: aliceblue;
 }
