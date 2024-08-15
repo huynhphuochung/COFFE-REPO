@@ -5,10 +5,6 @@
     border-bottom-right-radius: 5%;
 
 }
-.navbar-brand{
-    color:white;
-    
-}
 .nav-link:hover {
     color: darkgray;
     display: block;
