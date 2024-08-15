@@ -1,80 +1,97 @@
-.navbar{
+.navbar {
     background-color: #1b8a52;
     color: aliceblue;
     border-bottom-left-radius: 5%;
     border-bottom-right-radius: 5%;
 
 }
+
 .nav-link:hover {
     color: #1b8a52;
     display: block;
     border-radius: 20px;
     background-color: aliceblue;
-    border: 3px;
-    transition-duration:1s;
-    
+
+    transition-duration: 1s;
+
+
 }
-.nav-link{
-   
+
+.nav-link {
+
     margin-top: 50px;
-    color:white;
-   font-size: 27px;
-   text-align: center;
-    
+    color: white;
+    font-size: 27px;
+
+
 }
-.dropdown:hover>.dropdown-menu
-{
+
+.dropdown:hover>.dropdown-menu {
     display: inline;
-    background-color:aliceblue;
-    transition-delay:5s;
-    
+    background-color: aliceblue;
+    transition-delay: 5s;
+
 }
-.icon{
-    color:aliceblue;
-    
-    margin-right: 2px;
+
+.icon {
+    color: aliceblue;
+
+    margin-right: 15px;
 }
-.icon:hover{
+
+.icon:hover {
     color: darkgrey;
 }
-.btn{
+
+.btn {
     background-color: white;
-    
+
 }
-.btn:hover
-{
+
+.btn:hover {
     background-color: darkgrey;
     color: aliceblue;
 }
-.text{
+
+.text {
     color: black;
     text-decoration: none;
 }
 
 .text:hover {
     color: aliceblue;
-    background-color:#1b8a52;
-    border-radius:5px;
+    background-color: #1b8a52;
+    border-radius: 5px;
     font-size: 18px;
     transition-duration: 1s;
 }
-.d-flex{
+
+.d-flex {
     border-radius: 10px;
 }
-.p-3{
-    border-radius: 10px; 
+
+.p-3 {
+    border-radius: 10px;
 }
+
 .form-control {
-   
-   width: 30px;
-   height: 50px;
-   margin-left: 200px;
-  
-   
-}
-.btn{
-   
-    margin-bottom: 120px;
+
+    width: 350px;
+    height: 50px;
+    margin-left: 50px;
+    margin-top: 50px;
+
 
 }
 
+.btn {
+    height: 50px;
+    margin-top: 50px;
+    margin-right: 20px;
+
+}
+.carousel-inner{
+border-radius: 2%;
+margin-top: 5px;
+margin-bottom: 5px;
+}
