@@ -16,9 +16,10 @@
 }
 .nav-link{
    
-    margin-top: 40px;
+    margin-top: 50px;
     color:white;
    font-size: 27px;
+   text-align: center;
     
 }
 .dropdown:hover>.dropdown-menu
@@ -31,13 +32,14 @@
 .icon{
     color:aliceblue;
     
-    margin-right: 20px;
+    margin-right: 2px;
 }
 .icon:hover{
     color: darkgrey;
 }
 .btn{
     background-color: white;
+    
 }
 .btn:hover
 {
@@ -53,7 +55,8 @@
     color: aliceblue;
     background-color:#1b8a52;
     border-radius:5px;
-    font-size: 15px;
+    font-size: 18px;
+    transition-duration: 1s;
 }
 .d-flex{
     border-radius: 10px;
@@ -61,3 +64,17 @@
 .p-3{
     border-radius: 10px; 
 }
+.form-control {
+   
+   width: 30px;
+   height: 50px;
+   margin-left: 200px;
+  
+   
+}
+.btn{
+   
+    margin-bottom: 120px;
+
+}
+
